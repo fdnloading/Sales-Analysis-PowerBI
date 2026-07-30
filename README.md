@@ -1,6 +1,8 @@
-# Sales Analysis Dashboard (Power BI)
+## Sales Analysis Dashboard (Power BI)
 
-This project is an interactive sales analysis dashboard created in Power BI.
+## Overview
+
+This project is an interactive sales analysis dashboard built in Power BI. It provides insights into sales performance, products, customers, and employee performance through interactive dashboards and visualizations.
 
 ## Dashboard Features
 - Sales overview with key KPIs
@@ -13,14 +15,28 @@ This project is an interactive sales analysis dashboard created in Power BI.
 - Bookmarks
 - Selection pane for navigation
 
-## Tools Used
+## Tools & Technologies
 - Power BI
 - Power Query
 - DAX
+- Data Modeling
+- Data Visualization
 
 ## Data Preparation
 The dataset was prepared and transformed using Power Query. Data cleaning, formatting, and modeling were completed directly in Power BI.
 
+## Skills Demonstrated
+
+- Data cleaning and transformation
+- Data modeling
+- DAX calculations
+- KPI design
+- Interactive dashboard development
+- Drill-through pages
+- Tooltips
+- Bookmarks
+- Selection pane navigation
+  
 ## Preview
 
 ### Sales Dashboard
