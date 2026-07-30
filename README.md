@@ -25,4 +25,4 @@ The dataset was prepared and transformed using Power Query. Data cleaning, forma
 Dashboard screenshots are available in this repository.
 
 ## File
-- Sales_Analysis.pbix
+-Sales_Analysis.pbix
