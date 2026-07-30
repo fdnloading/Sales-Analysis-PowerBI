@@ -22,7 +22,19 @@ This project is an interactive sales analysis dashboard created in Power BI.
 The dataset was prepared and transformed using Power Query. Data cleaning, formatting, and modeling were completed directly in Power BI.
 
 ## Preview
-Dashboard screenshots are available in this repository.
 
-## File
--Sales_Analysis.pbix
+### Sales Dashboard
+![Sales Dashboard](images/sales_dashboard.png)
+
+### Product Analysis
+![Product Analysis](images/product_analysis.png)
+
+### Employee Analysis
+![Employee Analysis](images/employee_analysis.png)
+
+### Customer Analysis
+![Customer Analysis](images/customer_analysis.png)
+
+## Project File
+
+- Sales_Analysis.pbix
